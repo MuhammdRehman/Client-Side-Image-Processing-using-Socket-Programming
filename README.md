@@ -6,7 +6,7 @@ This project is a C++ Client-side implementation using Winsock for socket progra
 
 - **Image**: Give path of image to upload on server.
 - **Winsock**: Uses Winsock2 for network communication.
-- **OpenCV**: OpenCV will use for Image loading.
+- **OpenCV**: OpenCV will use for Image loading and converting into GrayScale image.
 
 ## Prerequisites
 
