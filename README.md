@@ -19,6 +19,7 @@ This project is a C++ Client-side implementation using Winsock for socket progra
 - Then Clone this and Run this.
 - You will receive message if connection will succesfully established.
 - Image Will uploaded on server and after processing you will get the server Count as well as Gray-scale image in your side.
+- Make sure Port is **34570**. If you want to change this port then you need to change it on server side as well.
 
 
 
