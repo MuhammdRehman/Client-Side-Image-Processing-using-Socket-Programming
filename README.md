@@ -1,4 +1,4 @@
-# Socket Programming Server
+# Socket Programming Client
 
 This project is a C++ Client-side implementation using Winsock for socket programming. The Client send request on port **34570**.
 
