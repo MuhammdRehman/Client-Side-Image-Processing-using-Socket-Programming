@@ -1,6 +1,6 @@
 # Socket Programming Client
 
-This project is a C++ Client-side implementation using Winsock for socket programming. The Client send request on port **34570** Because Server is listening on this port.
+This project is a C++ Client-side implementation using Winsock for socket programming. The Client send request on port **34570** Because Server is listening on this port and we required same port for Communication b/w Client and server.
 
 ## Features
 
