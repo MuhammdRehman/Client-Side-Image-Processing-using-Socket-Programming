@@ -13,7 +13,7 @@ This project is a C++ Client-side implementation using Winsock for socket progra
 - **Operating System**: Windows
 - **Compiler**: Visual Studio Community Edition (or any C++11 compatible compiler)
 - **Libraries**: Winsock2, OpenCV
-
+ 
 ## Execution criteria
 - First clone Server Side in your PC and execute that.
 - Then Clone this and Run this.
