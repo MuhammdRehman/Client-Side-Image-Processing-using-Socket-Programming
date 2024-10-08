@@ -15,6 +15,7 @@ This project is a C++ Client-side implementation using Winsock for socket progra
 - **Libraries**: Winsock2, OpenCV
  
 ## Execution criteria
+
 - First clone Server Side in your PC and execute that.
 - Then Clone this and Run this.
 - You will receive message if connection will succesfully established.
